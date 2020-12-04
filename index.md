@@ -1,21 +1,3 @@
-<html>
-
-  <meta charset="UTF-8">
-
-  <head>
-
-    <h1>Test</h1>
-
-  </head>
-
-  <body>
-
-    
-
-  </body>
-
-</html>
-<!DOCTYPE html>
 
 <html>
 
