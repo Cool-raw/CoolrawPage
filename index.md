@@ -7,17 +7,18 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>css按钮提交动画</title>
+    <title>凉生主页</title>
 
     <link rel="stylesheet" href="style.css">
 
 </head>
 
 <body>
+    <h1>欢迎来到凉生主页</h1>
 
     <button class="noselect">
 
-        <span>Submit</span>
+        <span>是否人机</span>
 
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
 
